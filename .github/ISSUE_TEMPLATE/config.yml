@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: MRPAF v3.0.0 release notes
+    url: https://github.com/popcoondev/mrpaf-spec/blob/main/RELEASE-NOTES-v3.0.0.md
+    about: Read the release summary before filing broad design questions.
