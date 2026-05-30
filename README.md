@@ -31,6 +31,8 @@ MRPAF is an editable, layer-preserving, structure-preserving interchange format 
   日本語参考訳。
 - [RELEASE-NOTES-v3.1.0-draft.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/RELEASE-NOTES-v3.1.0-draft.md)
   `v3.1.0` draft の変更要約。
+- [FIVE-REVIEW-SUMMARY-v3.1.0.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/FIVE-REVIEW-SUMMARY-v3.1.0.md)
+  `v3.1.0 draft` に対する 5 視点レビュー結果。
 
 ## Scope
 

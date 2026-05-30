@@ -391,6 +391,7 @@ Rules:
 - readers MUST NOT fail solely because an unknown extension exists
 - editors SHOULD preserve unknown extension payloads when saving
 - writers MUST NOT place standard core semantics only inside `extensions`
+- core-conforming readers and viewers MAY ignore supported or unsupported extension payloads unless a future conformance profile explicitly requires them
 
 ### Standard Extension: `extensions.layerGroups`
 
@@ -414,6 +415,7 @@ Each group object MAY contain:
 Rules:
 
 - group membership is organizational metadata and MUST NOT change core composition, visibility, opacity, placement, or animation meaning
+- the order of `groups` is organizational only and MUST NOT define rendering order or hierarchy
 - the order of `members` is organizational only and MUST NOT override layer composition order
 - nested groups are not defined by this extension
 - a layer MAY appear in zero or more groups
@@ -1129,6 +1131,7 @@ Use this checklist before publishing a new draft:
 - Animation frames reference only declared layer IDs
 - `backgroundColor` rendering semantics are stated explicitly
 - `extensions.layerGroups` is defined as organizational and not rendering-affecting
+- `extensions.layerGroups.groups` order is defined as organizational only
 - Unknown extension behavior is described in both narrative text and examples
 - Required metadata is limited to `title`
 - Derived size rules are stated once and not contradicted elsewhere
