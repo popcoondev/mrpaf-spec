@@ -14,6 +14,10 @@ MRPAF is an editable, layer-preserving, structure-preserving interchange format 
   レビュー観点、既知の前提、レビュー投稿時の着眼点。
 - [RELEASE-NOTES-v3.0.0.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/RELEASE-NOTES-v3.0.0.md)
   `v3.0.0` リリースで何を確定したかの公開向け要約。
+- [GITHUB-RELEASE-v3.0.0.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/GITHUB-RELEASE-v3.0.0.md)
+  GitHub Release にそのまま使える公開文面。
+- [GITHUB-REPO-METADATA.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/GITHUB-REPO-METADATA.md)
+  About 欄と Topics の推奨値。
 - [REVIEW-RESOLUTION-LOG.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/REVIEW-RESOLUTION-LOG.md)
   受けた主要レビューコメントと、その反映状況。
 - [DRAFT-EXIT-CRITERIA.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/DRAFT-EXIT-CRITERIA.md)
