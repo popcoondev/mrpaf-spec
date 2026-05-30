@@ -23,16 +23,16 @@ MRPAF is an editable, layer-preserving, structure-preserving interchange format 
 - [DRAFT-EXIT-CRITERIA.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/DRAFT-EXIT-CRITERIA.md)
   `draft` を外して正式版へ進めるための判定基準。
 
-## Active Drafts
+## Latest Release
 
-- [MRPAF-v3.1.0-draft.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/MRPAF-v3.1.0-draft.md)
-  English public review draft for the `extensions.layerGroups` standard extension.
-- [MRPAF-v3.1.0-draft.ja.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/MRPAF-v3.1.0-draft.ja.md)
-  日本語参考訳。
-- [RELEASE-NOTES-v3.1.0-draft.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/RELEASE-NOTES-v3.1.0-draft.md)
-  `v3.1.0` draft の変更要約。
+- [MRPAF-v3.1.0.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/MRPAF-v3.1.0.md)
+  English specification for the standardized `extensions.layerGroups` extension. This is the normative text for `v3.1.0`.
+- [MRPAF-v3.1.0.ja.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/MRPAF-v3.1.0.ja.md)
+  日本語版。英語版の参考訳として使う。
+- [RELEASE-NOTES-v3.1.0.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/RELEASE-NOTES-v3.1.0.md)
+  `v3.1.0` リリースで何を追加したかの要約。
 - [FIVE-REVIEW-SUMMARY-v3.1.0.md](/Users/mn/Documents/Codex/2026-05-28/files-mentioned-by-the-user-multi/FIVE-REVIEW-SUMMARY-v3.1.0.md)
-  `v3.1.0 draft` に対する 5 視点レビュー結果。
+  `v3.1.0` に対する 5 視点レビュー結果。
 
 ## Scope
 

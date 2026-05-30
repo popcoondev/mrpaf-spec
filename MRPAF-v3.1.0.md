@@ -1,25 +1,25 @@
-# Multi-Resolution Pixel Art Format (MRPAF) Specification v3.1.0 Draft
+# Multi-Resolution Pixel Art Format (MRPAF) Specification v3.1.0
 
-Status: Public review draft
+Status: Final
 
 Version: 3.1.0
 
 License: CC0 1.0 Universal recommended for specification text
 
-## Draft Status and Review Focus
+## Document Status
 
-This draft is intended for public review before release finalization.
+This document is the finalized `v3.1.0` specification text.
 
-The English draft is the normative reference text for `v3.1.0`. Any translated draft is informative unless stated otherwise.
+The English text is the normative reference text for `v3.1.0`. Any translated edition is informative unless stated otherwise.
 
-Reviewers should focus on:
+For maintenance and future revisions, attention should focus on:
 
 - ambiguity in normative behavior
 - schema-to-prose mismatches
 - missing failure conditions for readers and writers
 - interoperability risks across independent implementations
 
-Reviewers should not assume compatibility with pre-v3 MRPAF drafts unless compatibility is stated explicitly in this document.
+Implementations should not assume compatibility with pre-v3 MRPAF drafts unless compatibility is stated explicitly in this document.
 
 ## Positioning Statement
 
@@ -533,7 +533,7 @@ A conforming AI generator MUST:
 
 ## JSON Schema
 
-The following schema is a minimal structural core schema aligned with this draft.
+The following schema is a minimal structural core schema aligned with this specification.
 
 It is a structural baseline, not a complete semantic validator.
 
@@ -1103,20 +1103,20 @@ Note: reference integrity for layer IDs used in `frames.layers` and `layerOverri
 }
 ```
 
-## Draft Change Summary
+## Version Summary
 
-This draft intentionally extends MRPAF with a standardized organizational layer-group extension while keeping core rendering semantics unchanged.
+This release extends MRPAF with a standardized organizational layer-group extension while keeping core rendering semantics unchanged.
 
-Compared with `v3.0.0`, this draft:
+Compared with `v3.0.0`, this release:
 
 - keeps the `v3.0.0` core object model and rendering semantics
 - adds `extensions.layerGroups` as a standard organizational extension
 - keeps layer grouping out of the core rendering model
 - preserves forward-compatible handling for implementations that ignore unknown extensions
 
-## Review Checklist
+## Maintenance Checklist
 
-Use this checklist before publishing a new draft:
+Use this checklist before publishing a revision to this specification:
 
 - Positioning Statement matches the Purpose and Scope section
 - `Why Not PNG?` contains exactly three points and no extra marketing claims
